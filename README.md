@@ -7,7 +7,7 @@ Tool to save and load data with JSON.
     
     // Init new service and set root
     var service = new SaveService();
-    var service.Init(_root);
+    var service.Init(root);
     
     // Set custom settings with:
     service.Settings = new Settings();
