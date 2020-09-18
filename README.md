@@ -22,3 +22,10 @@ Tool to save and load data with JSON.
     // Autosave
     service.AutoSave("campaign1", dataSaved));
 ```
+```csharp
+    public class Data()
+    {
+        // data here
+        public int foo;
+    }
+```
