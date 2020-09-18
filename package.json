@@ -1,5 +1,9 @@
 {
 	"name":"com.artmann.save-load",
 	"version":"1.0.0",
-	"displayName":"Save and Load"
+	"displayName":"Save and Load",
+	"dependencies":
+	{
+		"com.unity.nuget.newtonsoft-json":"2.0.0"
+	}
 }
